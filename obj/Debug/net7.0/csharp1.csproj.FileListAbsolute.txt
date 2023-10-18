@@ -1,0 +1,14 @@
+/Users/leventebotos/csharp1/obj/Debug/net7.0/csharp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leventebotos/csharp1/obj/Debug/net7.0/csharp1.AssemblyInfoInputs.cache
+/Users/leventebotos/csharp1/obj/Debug/net7.0/csharp1.AssemblyInfo.cs
+/Users/leventebotos/csharp1/obj/Debug/net7.0/csharp1.csproj.CoreCompileInputs.cache
+/Users/leventebotos/csharp1/bin/Debug/net7.0/csharp1
+/Users/leventebotos/csharp1/bin/Debug/net7.0/csharp1.deps.json
+/Users/leventebotos/csharp1/bin/Debug/net7.0/csharp1.runtimeconfig.json
+/Users/leventebotos/csharp1/bin/Debug/net7.0/csharp1.dll
+/Users/leventebotos/csharp1/bin/Debug/net7.0/csharp1.pdb
+/Users/leventebotos/csharp1/obj/Debug/net7.0/csharp1.dll
+/Users/leventebotos/csharp1/obj/Debug/net7.0/refint/csharp1.dll
+/Users/leventebotos/csharp1/obj/Debug/net7.0/csharp1.pdb
+/Users/leventebotos/csharp1/obj/Debug/net7.0/csharp1.genruntimeconfig.cache
+/Users/leventebotos/csharp1/obj/Debug/net7.0/ref/csharp1.dll
